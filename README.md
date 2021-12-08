@@ -3,8 +3,13 @@
 ## 📑 Overview
 Creating ecommerce website for phone-selling using PHP, HTML, CSS, JS and more
 
-Interface of the website:
+### Interface of the website:
+
 ![alt](https://github.com/TrietTran1701/Cellphone-ecommerce-php/blob/main/web_img/img1.png)
+
+
+![alt](https://github.com/TrietTran1701/Cellphone-ecommerce-php/blob/main/web_img/img2.png)
+
 
 ## 🔎 Project details
 
