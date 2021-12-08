@@ -30,12 +30,12 @@ Creating ecommerce website for phone-selling using PHP, HTML, CSS, JS and more
 #### Developing Process
 *Homepage:*
 
-I apply HTML5 & CSS3 to make the website have a good-looking and user-friendly appearance. For the responsive design, we use css grid and bootstrap 4. In addition, by using Javascript, some effects of the website ( like scrolling or hovering ) can become smooth.
+I apply HTML5 & CSS3 to make the website have a good-looking and user-friendly appearance. For the responsive design, I use css grid and bootstrap 4. In addition, by using Javascript, some effects of the website ( like scrolling or hovering ) can become smooth.
 
 
 *Search bar:*
 
-Applying ajax live-search technique, we can allow customers to input the name of a product into the search field. We query the database and display the product if it exists. Clicking on the product’s name also takes users to its details page
+Applying ajax live-search technique, I can allow customers to input the name of a product into the search field. I query the database and display the product if it exists. Clicking on the product’s name also takes users to its details page
 
 *Product details page:*
 
